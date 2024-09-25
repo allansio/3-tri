@@ -1,4 +1,4 @@
-let number=parseInt(prompt(média))
+let number=parseInt(prompt(media))
 
 
 
@@ -18,7 +18,7 @@ console.log(areaQuadrado(4))
 
 let media=function(num1,num2,num3){
 return num1+num2+num3/3;
-
+let number=parseInt(prompt(media))
 }
 
 
