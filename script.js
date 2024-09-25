@@ -13,4 +13,9 @@ let media=function(num1,num2,num3){
 return num1+num2+num3/3;
 
 }
+let numero=parseInt(prompt(Digite 3 números e calcule a média))
+
+
+
+
 console.log(media(6,6,8))
