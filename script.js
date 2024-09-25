@@ -1,4 +1,4 @@
-let numero=parseInt(prompt(9+2+7/3))
+let number=parseInt(prompt(9+2+7/3))
 
 
 
