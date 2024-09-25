@@ -8,3 +8,9 @@ function areaQuadrado (lado){
     return lado**2;
 }
 console.log(areaQuadrado(4))
+
+let media=function(____){
+return______;
+
+}
+console.log(______)
