@@ -1,4 +1,4 @@
-let number=parseInt(prompt(média))?
+let number=parseInt(prompt(média))
 
 
 
