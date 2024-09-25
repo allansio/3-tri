@@ -1,7 +1,7 @@
 
 
-function soma (1, 3){
- return 1+3;
+function soma (num1, num2){
+ return num1+num2;
 
 }
 
