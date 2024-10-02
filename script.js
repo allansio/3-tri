@@ -28,9 +28,9 @@ i=i++;
 
 }
 
-for(let i=0;estados.length;i++){
-console.log(i);
-console.log(estados[i])
+for(let index = 0;index<estados.length;index++){
+console.log(index);
+console.log(estados[index])
 
 
 
